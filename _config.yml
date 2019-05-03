@@ -1,16 +1,16 @@
 # Site
 title:              이황로의 블로그입니다.
 bio:                '개발 내용을 주로 다루고 있습니다.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+description:        "개발 내용을 주로 다루고 있습니다."
+# reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.jpeg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 # url:                https://taylantatli.github.io/Moon
-# url:                http://localhost:4000
-url:                https://hwangrolee.github.io
+url:                http://localhost:4000
+# url:                https://hwangrolee.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -39,7 +39,7 @@ disqus_shortname:   https-hwangrolee-github-io
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email: hwangro123@gmail.com
 # twitter:            username
 # facebook:           username
 github-url:         hwangrolee
